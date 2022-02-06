@@ -1,4 +1,0 @@
-- 👋 Olá, me chamo Rodrigo Terra, sou Professor de Física, apaixonado por uma boa Conversa, Café e Tecnologia.
-- 👀 Tenho grande interesse em aprender e aplicar conceitos de tecnologia em educação, por isso, me especializei em Tecnologias Educacionais. 
-- 🌱 Atualmente estou fazendo faculdade de Ciências de Dados. Acredito que somente com uma educação diversificada é que poderemos desenvolver novos olhares aos problemas atuais.
-- 📫 Caso queira conhecer um pouco do meu trabalho, basta acessar: https://www.makerzine.com.br
